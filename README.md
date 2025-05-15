@@ -39,6 +39,7 @@ Our eCommerce software is built for gift shops, offering an easy-to-use platform
 
 
 ## Installation
-dart
+
+```dart
 flutter pub get
 flutter run
